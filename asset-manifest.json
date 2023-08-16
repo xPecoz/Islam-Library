@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.885db998.css",
-    "main.js": "/static/js/main.392c5e82.js",
+    "main.js": "/static/js/main.9730b51a.js",
     "static/media/mosque.png": "/static/media/mosque.6e4a615483fe9907bb01.png",
     "static/media/pageError.png": "/static/media/pageError.b43d7f26e848f87d9864.png",
     "static/media/etiquette.webp": "/static/media/etiquette.61e18fba341fbbfec6a0.webp",
@@ -20,10 +20,10 @@
     "static/media/quran-2.png": "/static/media/quran-2.4dfacf59050be7936d28.png",
     "index.html": "/index.html",
     "main.885db998.css.map": "/static/css/main.885db998.css.map",
-    "main.392c5e82.js.map": "/static/js/main.392c5e82.js.map"
+    "main.9730b51a.js.map": "/static/js/main.9730b51a.js.map"
   },
   "entrypoints": [
     "static/css/main.885db998.css",
-    "static/js/main.392c5e82.js"
+    "static/js/main.9730b51a.js"
   ]
 }
