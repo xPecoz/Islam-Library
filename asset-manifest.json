@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51aba0f9.css",
-    "main.js": "/static/js/main.15147789.js",
+    "main.css": "/static/css/main.8ba49fbb.css",
+    "main.js": "/static/js/main.af72a583.js",
     "static/media/mosque.png": "/static/media/mosque.6e4a615483fe9907bb01.png",
     "static/media/pageError.png": "/static/media/pageError.b43d7f26e848f87d9864.png",
     "static/media/etiquette.webp": "/static/media/etiquette.61e18fba341fbbfec6a0.webp",
@@ -19,11 +19,11 @@
     "static/media/star.png": "/static/media/star.0a97b5b482630cc28c0c.png",
     "static/media/quran-2.png": "/static/media/quran-2.4dfacf59050be7936d28.png",
     "index.html": "/index.html",
-    "main.51aba0f9.css.map": "/static/css/main.51aba0f9.css.map",
-    "main.15147789.js.map": "/static/js/main.15147789.js.map"
+    "main.8ba49fbb.css.map": "/static/css/main.8ba49fbb.css.map",
+    "main.af72a583.js.map": "/static/js/main.af72a583.js.map"
   },
   "entrypoints": [
-    "static/css/main.51aba0f9.css",
-    "static/js/main.15147789.js"
+    "static/css/main.8ba49fbb.css",
+    "static/js/main.af72a583.js"
   ]
 }
